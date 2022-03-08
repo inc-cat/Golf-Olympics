@@ -1,0 +1,3 @@
+The results from above are plotted in the graph above show that most shots taken per hole were under par with fewer hole with shots on par and even fewer over par. With all the scores taken into account, the skill level between all three players are quite similar. It is only on occasion that a player will make a mistake and go over par, the score would jump up for a hole making the gap wider between each player. All three participants finished comfortably under the par line.
+
+The two graphs below show each result against par from an individual hole value and as a collective amount for under par, on par and over par along with holes in one (which is plotted with under par).
